@@ -1,6 +1,5 @@
 ### Hi, I’m Khanh Hoa 👋
 - 👀 I’m interested in Blockchain, Distributed System
-- 📫 How to reach me [linkedin](https://www.linkedin.com/in/hoank101/)
 ### My experience
 - Experience as a Software Engineer, Blockchain Engineer 
 - Experience with large-scale, highly available distributed system
